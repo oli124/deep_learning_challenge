@@ -1,6 +1,12 @@
 ## Module 21 Challenge
 # deep_learning_challenge
 
+Contents of Repository:
+1. 'alphabet_soup_classifier.ipynb' - first iteration of NN model, prior to any optimisation
+2. 'AlphabetSoupCharity.h5' - export of first iteration model in HDF5 format
+3. 'alphabet_soup_classifier_v2.ipynb' - optimised NN model
+4. 'AlphabetSoupCharity_Optimisation.h5' - export of optimised model in HDF5 format
+
 Overview of Analysis: 
 - The purpose of this analysis was to build a model that will successfully identify applicants that will be successful if funded by non-profit foundation Alphabet Soup.
 - Using neural network technology, the model will be a binary classifier which uses metadata on organisations that that received funding from Alphabet Soup in the past.
